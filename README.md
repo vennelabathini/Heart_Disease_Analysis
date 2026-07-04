@@ -16,11 +16,6 @@ Gender Slicer. A global filter that instantly recomputes the entire report for m
 
 
 
-
-🗂️ Dataset
-
-Heart-failure clinical records covering 299 patients with demographic, clinical, and outcome fields. Source: [dataset link].
-
 🎯 Project Purpose
 
 The dashboard helps clinicians and health analysts identify which patients face the highest mortality risk and where preventive care delivers the greatest return, replacing static spreadsheets with an interactive, filterable clinical view.
